@@ -22,7 +22,7 @@ include('server.php');
 </head>
 <header>
     <ul class="navbar">
-        <li><a href="#">Home</a></li>
+        <li><a href="">Home</a></li>
         <li>
             <div class="dropdown">
                 Shop
